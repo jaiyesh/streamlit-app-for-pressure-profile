@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-
+print("Its a streamlit Application")
 
 st.title("Pressure Profile Application")
 
